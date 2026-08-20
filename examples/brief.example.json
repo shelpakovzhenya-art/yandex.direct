@@ -1,0 +1,34 @@
+{
+  "product": "Теплицы из поликарбоната с доставкой и монтажом",
+  "business_model": "local",
+  "geo": {
+    "names": ["Москва и Московская область"],
+    "region_ids": ["1"]
+  },
+  "audiences": ["владельцы дач и загородных домов"],
+  "primary_goal": "подтвержденная заявка на расчет",
+  "goal_value": 7000,
+  "gross_margin": 0.32,
+  "target_cpa": 3500,
+  "target_drr": null,
+  "budget": {
+    "amount": 100000,
+    "period": "month",
+    "currency": "RUB"
+  },
+  "landing_urls": ["https://example.ru/teplicy"],
+  "verified_claims": [
+    {
+      "claim": "Доставка за 1 день для моделей в наличии",
+      "source": "https://example.ru/teplicy#delivery",
+      "scope": "только модели со статусом в наличии"
+    },
+    {
+      "claim": "Смета до начала работ",
+      "source": "https://example.ru/teplicy#contract",
+      "scope": "монтаж по договору"
+    }
+  ],
+  "constraints": ["Не обещать доставку за 1 день для заказных моделей"],
+  "api_mode": "draft"
+}

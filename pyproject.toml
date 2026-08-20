@@ -1,0 +1,9 @@
+[project]
+name = "yandex-direct-skill"
+version = "0.1.0"
+description = "Agent skill and deterministic toolkit for Yandex Direct"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 100

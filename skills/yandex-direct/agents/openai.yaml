@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yandex Direct Growth Engine"
+  short_description: "Семантика, объявления и оптимизация Директа"
+  default_prompt: "Use $yandex-direct to build a compliant, conversion-focused Yandex Direct campaign from research to measurement."

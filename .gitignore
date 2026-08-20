@@ -1,0 +1,14 @@
+.env
+.env.local
+*.secret
+*.token
+service_account*.json
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+dist/
+build/
+outputs/
+*.xlsx
+*.xls

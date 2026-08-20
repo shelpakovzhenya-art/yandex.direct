@@ -1,0 +1,6 @@
+phrase;count;source;seed;region;device
+купить теплицу из поликарбоната;1200;wordstat_results;теплица;1;DEVICE_ALL
+Купить теплицу из поликарбоната;1180;wordstat_results;поликарбонатная теплица;1;DEVICE_ALL
+теплица с доставкой и монтажом;430;wordstat_results;теплица монтаж;1;DEVICE_ALL
+как сделать теплицу своими руками;900;wordstat_associations;теплица;1;DEVICE_ALL
+скачать чертеж теплицы;210;wordstat_associations;теплица;1;DEVICE_ALL
